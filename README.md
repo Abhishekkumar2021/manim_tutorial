@@ -1,0 +1,4 @@
+## Understanding Manim and its capabilities
+Manim is a powerful animation engine for explanatory math videos. It is used to create animations programmatically, which can be used to explain complex mathematical concepts in a visual way. Manim is built on top of the Python programming language and is open-source, which means that anyone can use it for free.
+
+Manim is particularly well-suited for creating animations of mathematical concepts, such as geometry, algebra, calculus, and more. It allows you to create complex animations with ease, using a simple and intuitive syntax. Manim also provides a wide range of customization options, allowing you to create animations that suit your specific needs.
